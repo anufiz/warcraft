@@ -1,0 +1,11 @@
+race = "Human"
+strenght = "2"
+intellect = "2"
+agility = "2"
+//
+// do not change
+//
+units = "peasant, footman, archer, champion, hero"
+builds = "hut, stock, stone, castle, barracks, defensive tower"
+hero = "Angel Executer"
+

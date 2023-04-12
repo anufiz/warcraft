@@ -1,0 +1,11 @@
+race = "undead, zombie"
+strenght = "3"
+intellect = "1"
+agility = "2"
+//
+// do not change
+//
+units = "zombie, undead_dog, necromant, pudge, dead_rider, hero"
+bilds = "frost_castle, ziggurat, dugout, defender_tower, barrack, forge"
+hero = "Anubarak, Frost_Lich"
+

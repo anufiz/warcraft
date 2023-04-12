@@ -1,0 +1,11 @@
+race "high elves"
+strength = "1"
+intellect = "3"
+agility = "3"
+//
+// TEST
+//
+units = "elf, elf_test, hero_test"
+bilds = "gold_castle, house_on_a_tree, barrack"
+hero_test "false"
+
